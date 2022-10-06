@@ -11,4 +11,4 @@ Use multiple accounts to seperate the different aspects of your life for both se
 # Red zone
 Disable GPS tracking because it tracks everywhere you go throughout the day.  
 Use a secure cellular provider - some providers are known to sell your real-time location.  
-Remove camera and microphone hardware to prevent companies / apps from getting more information on you. 
+Remove camera and microphone hardware to prevent companies / apps from spying on you. 
