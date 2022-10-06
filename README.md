@@ -1,5 +1,5 @@
 # Green zone
-Refrain from using biometrics, they can be easily cracked, they fall under legal jurisdictions, biometric data may be collected.  
+Refrain from using biometrics, they can be easily cracked, they fall under legal jurisdictions, and biometric data may be collected.  
 Use a secure search engine, major companies (Google) track and store your information.  
 Use a VPN to hide your IP address and for protection against from hackers and unsecure websites.  
 
